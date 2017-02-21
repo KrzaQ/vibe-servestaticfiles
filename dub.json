@@ -1,0 +1,15 @@
+{
+	"authors": [
+		"krzaq"
+	],
+	"name": "dtest",
+	"license": "MIT",
+	"copyright": "Copyright © 2017, krzaq",
+	"description": "A simple vibe.d server application.",
+	"dependencies": {
+		"vibe-d": "~>0.7.28"
+	},
+	"versions": [
+		"VibeDefaultMain"
+	]
+}
